@@ -1,4 +1,7 @@
 
+//the component that will display the burger in our app a
+
+
 import React from 'react';
 import classes from './Burger.css';
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
