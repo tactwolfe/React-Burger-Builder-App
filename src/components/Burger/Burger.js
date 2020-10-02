@@ -1,5 +1,5 @@
 
-//the component that will display the burger in our app a
+//the component that will display the burger in our app 
 
 
 import React from 'react';
